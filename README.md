@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-malek" alt="hasan-malek" /></a> </p>
 
-- 👨‍💻 All of my open source projects are available at [https://github.com/Hasan-Malek](https://github.com/Hasan-Malek)
+- 👨‍💻 All of my open source projects are available at **[https://github.com/Hasan-Malek](https://github.com/Hasan-Malek)**
 
 - 📫 How to reach me **official.hasanmalek@gmail.com**
 
