@@ -24,4 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-malek&" alt="hasan-malek" /></p>
 
-⭐ **"An idiot admires complexity, a genius admires simplicity."**
+
+
+<p align="center">
+  ⭐ <strong>"An idiot admires complexity, a genius admires simplicity."</strong> ⭐
+</p>
