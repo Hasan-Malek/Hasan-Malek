@@ -1,4 +1,4 @@
-![github-header-image(3)](https://github.com/user-attachments/assets/f8065852-54f1-43f4-9071-4ad6302c20c6)
+![github-header-image](https://github.com/user-attachments/assets/5e101de1-9c25-4dc2-9937-677534339b01)
 <h3 align="center">A passionate Security Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-malek&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-malek" /> </p>
