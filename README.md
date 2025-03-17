@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasan Malek</h1>
+![github-header-image](https://github.com/user-attachments/assets/7371512f-701c-4999-8841-b02635ecb13d)
 <h3 align="center">A passionate Security Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-malek&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-malek" /> </p>
