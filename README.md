@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hasan-malek&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="hasan-malek stats" />
+  <img src="https://img.shields.io/github/followers/Hasan-Malek?label=followers&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=00FF00" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Hasan-Malek?affiliations=OWNER&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=00FF00" alt="stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hasan-Malek&label=public%20repos&query=public_repos&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=00FF00" alt="repos" />
 </p>
 
 <p align="center">
@@ -81,10 +83,12 @@ fun_fact: "I talk to AI more than humans — guess who listens better?"
 
 ---
 
-### `$ ./trophies.sh`
+### `$ ./achievements.sh`
 
 <p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=hasan-malek&theme=matrix&no-frame=true&margin-w=10&row=1" alt="hasan-malek trophies" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hasan-Malek&label=member%20since&query=created_at&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=00FF00" alt="member since" />
+  <img src="https://img.shields.io/github/stars/Hasan-Malek?affiliations=OWNER,COLLABORATOR&label=total%20stars&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=00FF00" alt="total stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hasan-Malek&label=following&query=following&style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=00FF00" alt="following" />
 </p>
 
 ---
@@ -97,14 +101,6 @@ fun_fact: "I talk to AI more than humans — guess who listens better?"
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hasan-malek&theme=black-ice&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="hasan-malek streak" />
-</p>
-
----
-
-### `$ ./activity-graph.sh`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-malek&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="hasan-malek activity graph" />
 </p>
 
 ---
