@@ -1,31 +1,126 @@
-![github-header-image](https://github.com/user-attachments/assets/5e101de1-9c25-4dc2-9937-677534339b01)
-<h3 align="center">A passionate Security Engineer from India</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker-cat.gif" width="35" alt="hacker cat"/>
+  root@hasan-malek:~$
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-malek&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-malek" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-malek" alt="hasan-malek" /></a> </p>
+```
+> whoami
+```
 
-- 👨‍💻 All of my open source projects are available at [https://github.com/Hasan-Malek](https://github.com/Hasan-Malek)
-
-- 📫 How to reach me official.hasanmalek@gmail.com
-
-- ⚡ Fun fact **I talk to AI more than humans—guess who listens better?**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hasanmalek01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanmalek01" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hasan-malek-125036297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-malek-125036297/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasan-malek&show_icons=true&locale=en&layout=compact" alt="hasan-malek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-malek&" alt="hasan-malek" /></p>
-
-
+</div>
 
 <p align="center">
-  ⭐ <strong>"An idiot admires complexity, a genius admires simplicity."</strong> ⭐
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Engineer+%40+India+%F0%9F%87%AE%F0%9F%87%B3;Breaking+things+so+attackers+can't;Automating+recon+one+script+at+a+time;sudo+rm+-rf+%2F+(don't+try+this)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-malek&show_icons=true&theme=matrix&hide_border=true&count_private=true" alt="hasan-malek stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasan-malek&label=TERMINAL+VISITS&color=00ff00&style=for-the-badge" alt="hasan-malek" />
+</p>
+
+---
+
+### `$ cat about.txt`
+
+```yaml
+name: Hasan Malek
+role: Security Engineer
+location: India
+focus: [Offensive Security, Automation, Cloud Security]
+weapon_of_choice: Terminal + Coffee
+fun_fact: "I talk to AI more than humans — guess who listens better?"
+```
+
+---
+
+### `$ ls ./connect`
+
+<p align="left">
+<a href="https://twitter.com/hasanmalek01" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF00" alt="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/hasan-malek-125036297" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
+</a>
+<a href="mailto:official.hasanmalek@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
+</a>
+<a href="https://github.com/Hasan-Malek" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
+</a>
+</p>
+
+---
+
+### `$ ./run stack.sh`
+
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00" />
+</p>
+
+---
+
+### `$ ./trophies.sh`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasan-malek&theme=matrix&no-frame=true&margin-w=10&row=1" alt="hasan-malek trophies" />
+</p>
+
+---
+
+### `$ ./stats.sh --top-langs --streak`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-malek&layout=compact&theme=matrix&hide_border=true" alt="hasan-malek top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-malek&theme=black-ice&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="hasan-malek streak" />
+</p>
+
+---
+
+### `$ ./activity-graph.sh`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan-malek&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="hasan-malek activity graph" />
+</p>
+
+---
+
+### `$ ./contributions.sh --heatmap`
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF00/hasan-malek" alt="hasan-malek contribution heatmap" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=%22An+idiot+admires+complexity%2C+a+genius+admires+simplicity.%22" alt="quote" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/matrix-glitch.gif" width="500" alt="matrix" />
 </p>
