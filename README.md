@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-malek&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="hasan-malek stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=hasan-malek&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="hasan-malek stats" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ fun_fact: "I talk to AI more than humans — guess who listens better?"
 ### `$ ./trophies.sh`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasan-malek&theme=matrix&no-frame=true&margin-w=10&row=1" alt="hasan-malek trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=hasan-malek&theme=matrix&no-frame=true&margin-w=10&row=1" alt="hasan-malek trophies" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ fun_fact: "I talk to AI more than humans — guess who listens better?"
 ### `$ ./stats.sh --top-langs --streak`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-malek&layout=compact&theme=chartreuse-dark&hide_border=true" alt="hasan-malek top langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hasan-malek&layout=compact&theme=chartreuse-dark&hide_border=true" alt="hasan-malek top langs" />
 </p>
 
 <p align="center">
