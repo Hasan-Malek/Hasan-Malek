@@ -12,11 +12,11 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Engineer+%40+India+%F0%9F%87%AE%F0%9F%87%B3;Breaking+things+so+attackers+can't;Automating+recon+one+script+at+a+time;sudo+rm+-rf+%2F+(don't+try+this)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Engineer+%40+India+%F0%9F%87%AE%F0%9F%87%B3;Breaking+things+so+attackers+can't;Automating+recon+one+script+at+a+time;sudo+rm+-rf+%2F+(don't+try+this)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-malek&show_icons=true&theme=matrix&hide_border=true&count_private=true" alt="hasan-malek stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-malek&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="hasan-malek stats" />
 </p>
 
 <p align="center">
@@ -92,11 +92,11 @@ fun_fact: "I talk to AI more than humans — guess who listens better?"
 ### `$ ./stats.sh --top-langs --streak`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-malek&layout=compact&theme=matrix&hide_border=true" alt="hasan-malek top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-malek&layout=compact&theme=chartreuse-dark&hide_border=true" alt="hasan-malek top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-malek&theme=black-ice&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="hasan-malek streak" />
+  <img src="https://streak-stats.demolab.com/?user=hasan-malek&theme=black-ice&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="hasan-malek streak" />
 </p>
 
 ---
@@ -118,7 +118,7 @@ fun_fact: "I talk to AI more than humans — guess who listens better?"
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=%22An+idiot+admires+complexity%2C+a+genius+admires+simplicity.%22" alt="quote" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=%22An+idiot+admires+complexity%2C+a+genius+admires+simplicity.%22" alt="quote" />
 </p>
 
 <p align="center">
